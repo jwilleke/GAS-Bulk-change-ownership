@@ -15,6 +15,7 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.clasp.json
 
 # Log files
 npm-debug.log*
@@ -23,3 +24,5 @@ yarn-error.log*
 
 # My private files
 _private/
+.clasp.json
+.clasp.json
